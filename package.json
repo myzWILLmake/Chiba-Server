@@ -1,0 +1,16 @@
+{
+    "name": "chiba-server",
+    "version":"0.1.0",
+    "description": "Server for chiba-project",
+    "main": "index.js",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/myzWILLmake/Chiba-Server.git"
+    },
+    "author": "Yunze",
+    "dependencies":{
+        "express": "^3.0.0",
+        "socket.io": "^1.0.0"
+    }
+}
